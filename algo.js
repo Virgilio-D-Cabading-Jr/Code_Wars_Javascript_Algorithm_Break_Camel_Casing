@@ -7,6 +7,9 @@ function solution(str) {
     console.log("str", str);
     for ( x in str ) {
         console.log(str[x]);
+        if (str[x] == str[x].toUpperCase()) {
+            console.log("found upper case");
+        }
         
     }
     return output;
