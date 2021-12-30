@@ -17,4 +17,4 @@ function solution(str) {
 console.log("thisIsAString", solution("thisIsAString"));
 console.log("camelCasing", solution("camelCasing"));
 console.log("identifier", solution("identifier"));
-console.log("", solution(""));
+console.log("camelCasingTest", solution("camelCasingTest"));
