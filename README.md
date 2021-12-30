@@ -6,3 +6,9 @@ Language: Javascript
 Platform: Visual Studio Code
 
 -------------------
+
+## Instructions:
+
+Complete the solution so that the function will break up camel casing, using a space between words.
+
+--------------------
