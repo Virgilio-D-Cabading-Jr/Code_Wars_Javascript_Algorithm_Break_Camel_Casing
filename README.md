@@ -12,3 +12,9 @@ Platform: Visual Studio Code
 Complete the solution so that the function will break up camel casing, using a space between words.
 
 --------------------
+
+## Sample output:
+
+1. "camelCasing"  =>  "camel Casing"
+2. "identifier"   =>  "identifier"
+3. ""             =>  ""
